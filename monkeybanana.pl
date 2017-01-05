@@ -1,3 +1,7 @@
+% monkey banana problem
+%
+% designed with the ?- trace. function in mind to show the state changes
+
 move( state(middle, onbox, middle, hasnot),
 	grasp, 
 	state( middle, onbox, middle, has)).

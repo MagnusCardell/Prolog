@@ -1,4 +1,5 @@
 % Swipl program to create TCP connection
+
 :- use_module(library(socket)).
 
 server :-

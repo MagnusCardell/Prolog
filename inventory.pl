@@ -1,3 +1,4 @@
+% Bike assembly code from Clocksin Mellish "Programming in Prolog"
 
 basicpart(rim).
 basicpart(spoke).
