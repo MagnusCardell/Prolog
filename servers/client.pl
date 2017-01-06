@@ -1,4 +1,4 @@
-%We likely wont use this structure in favor of a Python client.
+% Swipl client to use to connect to a server
 
 :- use_module(library(socket)).
 
