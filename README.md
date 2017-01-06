@@ -15,7 +15,6 @@ Use it to look up the logic or tweek it to your liking.
 - real time uni.pl - unification without consultation. 
 - splitlist.pl 
 - unifiable.pl
----------
 - **servers** - all use Swipl libraries
 - client.pl - simple client
 - networker.pl - TCP server waiting for connections
